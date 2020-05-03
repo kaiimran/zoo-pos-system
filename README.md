@@ -1,5 +1,6 @@
 # Zoo D’ Nirvana POS System
 Password: zooadmin
+My first programming project. We need to apply everything that we learned in the first semester. The only project that received full marks in the class.
 
 # Project Background
 After a few discussions, we decided to create a zoo point-of-sale system called Zoo D’ Nirvana System for this project. The main purpose of creating this program is to make the business operation of the zoo more efficient.
