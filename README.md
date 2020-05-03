@@ -1,4 +1,5 @@
-# Project Title: Zoo D’ Nirvana System
+# Zoo D’ Nirvana POS System
+Password: zooadmin
 
 # Project Background
 After a few discussions, we decided to create a zoo point-of-sale system called Zoo D’ Nirvana System for this project. The main purpose of creating this program is to make the business operation of the zoo more efficient.
